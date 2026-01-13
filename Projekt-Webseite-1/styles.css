@@ -52,6 +52,10 @@ header{
       border-radius: 10px;
     font-size: 20px;
   }
+  .nav:hover{
+        background-color: darkgreen;
+        transform: scale(1.1);
+  }
   .credits{
   background-color: lightgrey;
   padding: 20px;
