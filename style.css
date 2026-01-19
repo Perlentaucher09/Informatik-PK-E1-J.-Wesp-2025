@@ -26,7 +26,7 @@ section {
 
 .link {
     padding: 10px;
-    text decoration: none;
-    backgound-color: lightblue;
+    text-decoration: none;
+    background-color: lightblue;
     border-radius: 10px;
 }
