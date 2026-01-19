@@ -1,14 +1,14 @@
-/* Allgemeine Elemente */
-
 body {
     background-color: darkblue;
     color: white;
 }
 
 h1 {
+    padding: 20px;
 }
 
 h2 {
+    padding: 10px;
 }
 
 
@@ -18,9 +18,11 @@ section {
 }
 
 #Einstieg {
+    padding: 10px;
 }
 
 #CSS-W {
+    padding: 10px;
 }
 
 
