@@ -1,0 +1,32 @@
+/* Allgemeine Elemente */
+
+body {
+    background-color: darkblue;
+    color: white;
+}
+
+h1 {
+}
+
+h2 {
+}
+
+
+
+section {
+    display: flex;
+}
+
+#Einstieg {
+}
+
+#CSS-W {
+}
+
+
+.link {
+    padding: 10px;
+    text decoration: none;
+    backgound-color: lightblue;
+    border-radius: 10px;
+}
