@@ -37,6 +37,9 @@ section {
     border: 2px solid black;
 
 }
+section:hover {
+    scale: 1.05;
+}
 
 #Einstieg {
     padding: 10px;
@@ -53,4 +56,8 @@ section {
     background-color: lightgray;
     border: 2px solid black;
     border-radius: 10px;
+}
+.link:hover {
+    background-color: white;
+    color: black;
 }
