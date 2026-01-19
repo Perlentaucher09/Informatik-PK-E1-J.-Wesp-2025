@@ -36,7 +36,7 @@ section{
 	max-width: 640px;
 }
 
-section:first-child{          /* Pseudoklasse */
+section:first-child{
 	border-top: 4px solid var(--primary-color);
 }
 
