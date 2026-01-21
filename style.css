@@ -60,14 +60,6 @@ section:hover {
     scale: 1.05;
 }
 
-.impressum-section {
-    display: block;
-    max-width: 900px;
-    margin: 20px auto;
-    text-align: left;
-    line-height: 1.5;
-}
-
 footer {
     margin-top: 25px;
     padding: 18px 16px;
