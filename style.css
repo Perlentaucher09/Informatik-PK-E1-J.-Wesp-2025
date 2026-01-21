@@ -35,20 +35,12 @@ section {
     margin: 10px;
     text-align: center;
     border: 2px solid black;
+    padding: 15px;
 
 }
 section:hover {
     scale: 1.05;
 }
-
-#Einstieg {
-    padding: 10px;
-}
-
-#CSS-W {
-    padding: 10px;
-}
-
 
 .link {
     padding: 15px;
