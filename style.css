@@ -46,6 +46,13 @@ nav ul {
     flex-wrap: wrap;
     height: 100px;
 }
+main {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5)
+}
+
 
 section {
     display: inline-flex;
@@ -70,6 +77,7 @@ footer {
     background-color: rgb(122, 122, 122);
     border-radius: 12px;
     color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5)
 }
 
 footer p {
